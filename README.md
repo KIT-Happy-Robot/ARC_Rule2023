@@ -1,7 +1,7 @@
 # RoboCup＠Home Yumeko-Open 2023 ルール
  RoboCup＠Home Yumeko-Open 2023（通称RCAY2023） @ホームリーグ(ARC)で使用するルール公開用リポジトリです。
 
-This is a repository for rules of RoboCup Yumeko Open 2022 @Home League.
+This is a repository for rules of RoboCup Yumeko Open 2023 @Home League.
 
 **質問はissueまでお願いいたします．**
 
@@ -39,5 +39,6 @@ Rules
 - Tasks will be conducted in according with the RoboCup@Home Education Challenge 2022 Rules (https://www.robocupathomeedu.org/rules).
 
 # LINK
-- [ルールブック・情報発信サイト](https://github.com/KIT-Happy-Robot/ARC_Rule2023)
+- [情報発信サイト](https://github.com/KIT-Happy-Robot/ARC2023)
+- [ルールブック](https://github.com/KIT-Happy-Robot/ARC_Rule2023)
 - [ARC‐運営MTG議事録](https://docs.google.com/document/d/1lnkQmGtLXRQC-yk5Rh2riJDeMoHErmDoVUNaMjpozks/edit)
