@@ -11,3 +11,12 @@
 # シナリオ
 # デウス・エクス・マキナ
 # スコアシート
+<table>
+    <tr>
+      <th> <b>Action</b> </th>
+      <th> <b>Score</b> </th>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"> <b>メインタスク</b> </td>
+    </tr>
+</table>
