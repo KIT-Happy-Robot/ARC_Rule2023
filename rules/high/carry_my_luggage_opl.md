@@ -1,1 +1,7 @@
-# Carry My Luggage
+# Carry My Luggage（CML）
+# メインゴール
+# フォーカス
+# セットアップ
+# シナリオ
+# デウス・エクス・マキナ
+# スコアシート
