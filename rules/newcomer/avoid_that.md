@@ -29,6 +29,19 @@
       </ul> 
     </td>
   </tr>
+    <tr>
+    <td colspan="2" align="center"> <b>減点</b> </td>
+    </tr>
+      <tr>
+    <td> 以下のもので減点 <br> 
+      <ul>
+        <li> 障害物の衝突毎 </li>
+        <li> 時間超過 </li>
+        <td align="center"> -100 <br> -300 <br></td>
+      </ul> 
+    </td>
+  </tr>
+    <tr>
       <td> <b>合計</b> </td>
       <td align="center"> <b>1000</b> </td>
     </tr>
