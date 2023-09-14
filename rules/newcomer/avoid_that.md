@@ -9,4 +9,27 @@
 - **競技時間は５分**(超過した場合減点)
 - オペレターはエリア外で待機
 - 指定したものを特定の場所まで持って行って審判に渡したら終了
-##
+## スコアシート
+<table>
+    <tr>
+      <th> <b>Action</b> </th>
+      <th> <b>Score</b> </th>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"> <b>メインタスク</b> </td>
+    </tr>
+  <tr>
+    <td> タスクをクリアし、指定場所に向かう <br> 
+      <ul>
+        <li> 指定場所への停止 </li>
+        <li> 指定物体の認識 </li>
+        <li> 指定物体の把持</li>
+        <li> 指定物体の受け渡し </li>
+        <td align="center"> 550 <br> 150 <br> 150 <br> 150 </td>
+      </ul> 
+    </td>
+  </tr>
+      <td> <b>合計</b> </td>
+      <td align="center"> <b>1000</b> </td>
+    </tr>
+</table>
