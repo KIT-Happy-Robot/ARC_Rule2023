@@ -21,11 +21,13 @@
   <tr>
     <td> タスクをクリアし、指定場所に向かう <br> 
       <ul>
+        <li> ドアが開いたら入室 </li>
         <li> 指定場所への停止 </li>
         <li> 指定物体の認識 </li>
         <li> 指定物体の把持</li>
+        <li> オペレータまで移動</li>
         <li> 指定物体の受け渡し </li>
-        <td align="center"> 550 <br> 150 <br> 150 <br> 150 </td>
+        <td align="center"> 150 <br> 200 <br> 150 <br> 150 <br> 200 <br> 150 </td>
       </ul> 
     </td>
   </tr>
@@ -36,8 +38,8 @@
     <td> 以下のもので減点 <br> 
       <ul>
         <li> 障害物の衝突毎 </li>
-        <li> 時間超過 </li>
-        <td align="center"> -100 <br> -300 <br></td>
+        <li> ボタンの使用</li>
+        <td align="center"> -100 <br> -300 <br> </td>
       </ul> 
     </td>
   </tr>
